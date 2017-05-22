@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="847px" height="500px" viewBox="0 0 847 500" enable-background="new 0 0 847 500" xml:space="preserve">
+<path fill="none" stroke="#CCCCCC" d="M241.5,250C413.25,250,413.25,27.778,585,27.778"/>
+<path fill="none" stroke="#CCCCCC" d="M241.5,250C413.25,250,413.25,83.333,585,83.333"/>
+<path fill="none" stroke="#CCCCCC" d="M241.5,250c171.75,0,171.75-111.111,343.5-111.111"/>
+<path fill="none" stroke="#CCCCCC" d="M241.5,250c171.75,0,171.75-55.556,343.5-55.556"/>
+<path fill="none" stroke="#CCCCCC" d="M241.5,250c171.75,0,171.75,0,343.5,0"/>
+<path fill="none" stroke="#CCCCCC" d="M241.5,250c171.75,0,171.75,55.556,343.5,55.556"/>
+<path fill="none" stroke="#CCCCCC" d="M241.5,250c171.75,0,171.75,111.111,343.5,111.111"/>
+<path fill="none" stroke="#CCCCCC" d="M241.5,250c171.75,0,171.75,166.667,343.5,166.667"/>
+<path fill="none" stroke="#CCCCCC" d="M241.5,250c171.75,0,171.75,222.223,343.5,222.223"/>
+<g transform="translate(343.5,250)">
+	<circle fill="#EEEEEE" stroke="#999999" cx="-111" cy="0" r="4.5"/>
+	<text transform="matrix(1 0 0 1 -153.1846 3)" font-family="'ArialMT'" font-size="11">Animalia</text>
+</g>
+<g transform="translate(687,27.777777777777775)">
+	<circle fill="#EEEEEE" stroke="#999999" cx="-102" cy="0" r="4.5"/>
+	<text transform="matrix(1 0 0 1 -94 2.9996)" font-family="'ArialMT'" font-size="11">Mammalia</text>
+</g>
+<g transform="translate(687,83.33333333333333)">
+	<circle fill="#EEEEEE" stroke="#999999" cx="-102" cy="0" r="4.5"/>
+	<text transform="matrix(1 0 0 1 -94 2.9997)" font-family="'ArialMT'" font-size="11">Reptilia</text>
+</g>
+<g transform="translate(687,138.88888888888889)">
+	<circle fill="#EEEEEE" stroke="#999999" cx="-102" cy="0" r="4.5"/>
+	<text transform="matrix(1 0 0 1 -94 2.9998)" font-family="'ArialMT'" font-size="11">Aves</text>
+</g>
+<g transform="translate(687,194.44444444444446)">
+	<circle fill="#EEEEEE" stroke="#999999" cx="-102" cy="0" r="4.5"/>
+	<text transform="matrix(1 0 0 1 -94 2.9999)" font-family="'ArialMT'" font-size="11">Actinopterygii</text>
+</g>
+<g transform="translate(687,250)">
+	<circle fill="#EEEEEE" stroke="#999999" cx="-102" cy="0" r="4.5"/>
+	<text transform="matrix(1 0 0 1 -94 3)" font-family="'ArialMT'" font-size="11">Insecta</text>
+</g>
+<g transform="translate(687,305.5555555555556)">
+	<circle fill="#EEEEEE" stroke="#999999" cx="-102" cy="0" r="4.5"/>
+	<text transform="matrix(1 0 0 1 -94 3.0001)" font-family="'ArialMT'" font-size="11">Malacostraca</text>
+</g>
+<g transform="translate(687,361.1111111111111)">
+	<circle fill="#EEEEEE" stroke="#999999" cx="-102" cy="0" r="4.5"/>
+	<text transform="matrix(1 0 0 1 -94 3.0002)" font-family="'ArialMT'" font-size="11">Bivalvia</text>
+</g>
+<g transform="translate(687,416.6666666666667)">
+	<circle fill="#EEEEEE" stroke="#999999" cx="-102" cy="0" r="4.5"/>
+	<text transform="matrix(1 0 0 1 -94 3.0003)" font-family="'ArialMT'" font-size="11">Arachnida</text>
+</g>
+<g transform="translate(687,472.22222222222223)">
+	<circle fill="#EEEEEE" stroke="#999999" cx="-102" cy="0" r="4.5"/>
+	<text transform="matrix(1 0 0 1 -94 3.0004)" font-family="'ArialMT'" font-size="11">Chelicerata</text>
+</g>
+</svg>
